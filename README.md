@@ -10,7 +10,7 @@ Please install the dependencies via conda:
 
 It's a recommendation system which produces different kinds of furniture layout for a room in a 2D simulation environment. 
 
-One model produces 5 kinds of different furniture layout in a 2D simulation environemnt for the room incudling typical bedroom, U-shape bedroom, L-shape bedroom, two-shape-bedroom and child bedroom. The running time on a GPU is 0.2~0.3s
+One model produces 5 kinds of different furniture layout in a 2D simulation environemnt for the room incudling typical bedroom, U-shape bedroom, L-shape bedroom, two-shape-bedroom and child bedroom. The running time on a GPU is 0.2~0.3s.
 
 ![Typical Layout](bedroom2.jpg)
 
@@ -22,3 +22,8 @@ One model produces 5 kinds of different furniture layout in a 2D simulation envi
 
 ![Child Layout](bedroom4.jpg)
 
+One model produces 2 kinds of different furniture layout in a 2D simulation environment for the livingroom including the parallel and the vertical livingroom. The running time on a GPU is 0.2~0.3s.
+
+![Parallel](livingroom1.jpg)
+
+![Vertical](livingroom2.jpg)
