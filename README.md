@@ -16,7 +16,7 @@ One model produces 5 kinds of different furniture layout in a 2D simulation envi
 
 ![L Layout](bedroom1.jpg)
 
-![U_Layout]()
+![U_Layout](bedroom6.jpg)
 
 ![Two-shape_Layout](bedroom3.jpg)
 
