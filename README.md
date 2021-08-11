@@ -35,7 +35,12 @@ One model recommend 4 kinds of different furniture layout in a 2D simulation env
 ![U-shape](kitchen3.jpg)
 ![L-shape](kitchen4.jpg)
 
-Other kinds of layout recommendation will be predicted soon.
+One model recommand 2 kinds of different funiture layout in a 2D simulation environment for the bathroom(main) including the square-type, the L-type. The layout of toliet, custom cabinet and square shower partition are predicted. As the guest bathroom is too simple, only simple, coding for some rules will cover it. There is no nedd to apply a deep model. 
+
+![one-line](bathroom1.jpg)
+![square-type](bathroom2.jpg)
+
+Tatami Layout and Study room recommendation will be predicted soon.
 
 Please contact deepearthgo@gmail.com if have any questions.
 
