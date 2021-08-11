@@ -28,7 +28,7 @@ One model recommend 2 kinds of different furniture layout in a 2D simulation env
 
 ![Vertical](livingroom2.jpg)
 
-One model recommend 4 kinds of different furniture layout in a 2D simulation environemnt for the kitchen including the one-line, the L-line, the U-line and the two-lines. Both the area and 5 key cabinets(ice-box|cut|cook|middle|wash|) are predicted.
+One model recommend 4 kinds of different furniture layout in a 2D simulation environemnt for the kitchen including the one-line, the L-line, the U-line and the two-lines. Both the area and 5 key cabinets(ice-box|cut|cook|middle|wash|) are predicted. The running time on a GPU is 0.2~0.3s.
 
 ![one-line](kitchen1.jpg)
 ![two-line](kitchen2.jpg)
@@ -36,6 +36,7 @@ One model recommend 4 kinds of different furniture layout in a 2D simulation env
 ![L-shape](kitchen4.jpg)
 
 One model recommand 2 kinds of different funiture layout in a 2D simulation environment for the bathroom(main) including the square-type, the L-type. The layout of toliet, custom cabinet and square shower partition are predicted. As the guest bathroom is too simple, only simple, coding for some rules will cover it. There is no nedd to apply a deep model. 
+The running time on a GPU is 0.2~0.3s.
 
 ![one-line](bathroom1.jpg)
 ![square-type](bathroom2.jpg)
