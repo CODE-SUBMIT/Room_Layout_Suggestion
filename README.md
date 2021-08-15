@@ -45,7 +45,7 @@ One model recommand 1 kind of different funiture layout in a 2D simulation envir
 
 ![tatami-1](tatami1.jpg)
 
-Tatami Layout and Study room recommendation will be predicted soon.
+The Study room recommendation will be predicted soon.
 
 Please contact deepearthgo@gmail.com if have any questions.
 
