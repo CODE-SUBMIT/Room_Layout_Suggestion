@@ -41,6 +41,10 @@ The running time on a GPU is 0.2~0.3s.
 ![one-line](bathroom1.jpg)
 ![square-type](bathroom2.jpg)
 
+One model recommand 1 kind of different funiture layout in a 2D simulation environment for the tatami(main) such as the L-type. The layout of tatami-bed, custom cabinet, custom desk and chair are predicted. The running time on a GPU is 0.2~0.3s. It a typical sample for the whole custom room layout. Through two-stage deep cnn and graph model, the average error for the size of all furnitures (>7K layout samples) are under 0.1mm.
+
+![tatami-1](tatami1.jpg)
+
 Tatami Layout and Study room recommendation will be predicted soon.
 
 Please contact deepearthgo@gmail.com if have any questions.
